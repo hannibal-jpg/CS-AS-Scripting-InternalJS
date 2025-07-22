@@ -1,4 +1,4 @@
-# CS Scripting: Internal JavaScript
+# 🧠 CS Scripting: Internal JavaScript
 
 This repository explores the “classic” method of embedding JavaScript directly into HTML — a nostalgic throwback to simpler, messier times.
 
